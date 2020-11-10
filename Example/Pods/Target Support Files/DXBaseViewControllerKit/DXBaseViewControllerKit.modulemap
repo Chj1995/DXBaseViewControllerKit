@@ -1,0 +1,6 @@
+framework module DXBaseViewControllerKit {
+  umbrella header "DXBaseViewControllerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

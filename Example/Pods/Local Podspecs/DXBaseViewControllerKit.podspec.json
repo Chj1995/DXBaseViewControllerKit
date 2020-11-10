@@ -1,0 +1,42 @@
+{
+  "name": "DXBaseViewControllerKit",
+  "version": "0.1.0",
+  "summary": "A short description of DXBaseViewControllerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Chj1995/DXBaseViewControllerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenhj": "chenhj@actumtech.com"
+  },
+  "source": {
+    "git": "https://github.com/Chj1995/DXBaseViewControllerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DXBaseViewControllerKit/Classes/**/*",
+  "dependencies": {
+    "FDFullscreenPopGesture": [
+
+    ],
+    "DXConstantsKit": [
+
+    ],
+    "DXCategoryKit": [
+
+    ],
+    "DXHttpManagerKit": [
+
+    ],
+    "DXGlobalConfigHttpManagerKit": [
+
+    ],
+    "ReactiveObjC": [
+
+    ]
+  }
+}

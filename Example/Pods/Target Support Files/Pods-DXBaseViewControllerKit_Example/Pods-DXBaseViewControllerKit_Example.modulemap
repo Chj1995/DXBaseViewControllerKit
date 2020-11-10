@@ -1,0 +1,6 @@
+framework module Pods_DXBaseViewControllerKit_Example {
+  umbrella header "Pods-DXBaseViewControllerKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

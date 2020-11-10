@@ -1,0 +1,6 @@
+framework module DXGlobalConfigHttpManagerKit {
+  umbrella header "DXGlobalConfigHttpManagerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

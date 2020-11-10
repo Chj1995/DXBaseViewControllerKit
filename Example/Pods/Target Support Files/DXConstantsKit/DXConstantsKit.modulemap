@@ -1,0 +1,6 @@
+framework module DXConstantsKit {
+  umbrella header "DXConstantsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

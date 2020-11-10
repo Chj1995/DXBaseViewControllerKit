@@ -1,0 +1,296 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - DXBaseViewControllerKit (0.1.0):
+    - DXCategoryKit
+    - DXConstantsKit
+    - DXGlobalConfigHttpManagerKit
+    - DXHttpManagerKit
+    - FDFullscreenPopGesture
+    - ReactiveObjC
+  - DXCategoryKit (0.1.6):
+    - DXCategoryKit/MBProgressHUD (= 0.1.6)
+    - DXCategoryKit/NSArray (= 0.1.6)
+    - DXCategoryKit/NSData (= 0.1.6)
+    - DXCategoryKit/NSDate (= 0.1.6)
+    - DXCategoryKit/NSObject (= 0.1.6)
+    - DXCategoryKit/NSString (= 0.1.6)
+    - DXCategoryKit/NSURL (= 0.1.6)
+    - DXCategoryKit/UIButton (= 0.1.6)
+    - DXCategoryKit/UICollectionViewCell (= 0.1.6)
+    - DXCategoryKit/UIColor (= 0.1.6)
+    - DXCategoryKit/UIImage (= 0.1.6)
+    - DXCategoryKit/UIImageView (= 0.1.6)
+    - DXCategoryKit/UILabel (= 0.1.6)
+    - DXCategoryKit/UIScreen (= 0.1.6)
+    - DXCategoryKit/UIScrollView (= 0.1.6)
+    - DXCategoryKit/UITableViewCell (= 0.1.6)
+    - DXCategoryKit/UITapGestureRecognizer (= 0.1.6)
+    - DXCategoryKit/UITextView (= 0.1.6)
+    - DXCategoryKit/UIView (= 0.1.6)
+    - DXCategoryKit/UIViewController (= 0.1.6)
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/MBProgressHUD (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSArray (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSData (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSDate (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSObject (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSString (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/NSURL (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIButton (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UICollectionViewCell (0.1.6):
+    - DXCategoryKit/UIView
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIColor (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIImage (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIImageView (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UILabel (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIScreen (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIScrollView (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UITableViewCell (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UITapGestureRecognizer (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UITextView (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIView (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXCategoryKit/UIViewController (0.1.6):
+    - DXConstantsKit
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - SDWebImage
+    - YYKit
+  - DXConstantsKit (0.1.10):
+    - DXConstantsKit/Button (= 0.1.10)
+    - DXConstantsKit/Color (= 0.1.10)
+    - DXConstantsKit/Font (= 0.1.10)
+    - DXConstantsKit/Frame (= 0.1.10)
+    - DXConstantsKit/Other (= 0.1.10)
+    - DXConstantsKit/Sandbox (= 0.1.10)
+    - DXConstantsKit/Service (= 0.1.10)
+    - DXConstantsKit/Tool (= 0.1.10)
+    - DXConstantsKit/Type (= 0.1.10)
+  - DXConstantsKit/Button (0.1.10)
+  - DXConstantsKit/Color (0.1.10)
+  - DXConstantsKit/Font (0.1.10):
+    - DXConstantsKit/Other
+  - DXConstantsKit/Frame (0.1.10)
+  - DXConstantsKit/Other (0.1.10)
+  - DXConstantsKit/Sandbox (0.1.10)
+  - DXConstantsKit/Service (0.1.10)
+  - DXConstantsKit/Tool (0.1.10)
+  - DXConstantsKit/Type (0.1.10)
+  - DXGlobalConfigHttpManagerKit (0.1.1):
+    - DXCategoryKit
+    - DXConstantsKit
+    - DXHttpManagerKit
+    - GVUserDefaults
+    - SVGAPlayer
+  - DXHttpManagerKit (0.1.10):
+    - AFNetworking
+    - DXCategoryKit
+    - OpenUDID
+  - FDFullscreenPopGesture (1.1)
+  - GVUserDefaults (1.0.2)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.5.0)
+  - OpenUDID (1.0.0)
+  - Protobuf (3.13.0)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.9.4):
+    - SDWebImage/Core (= 5.9.4)
+  - SDWebImage/Core (5.9.4)
+  - SSZipArchive (2.2.3)
+  - SVGAPlayer (2.5.5):
+    - SVGAPlayer/Core (= 2.5.5)
+    - SVGAPlayer/ProtoFiles (= 2.5.5)
+  - SVGAPlayer/Core (2.5.5):
+    - SSZipArchive (>= 1.8.1)
+    - SVGAPlayer/ProtoFiles
+  - SVGAPlayer/ProtoFiles (2.5.5):
+    - Protobuf (~> 3.4)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - DXBaseViewControllerKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/Chj1995/DXSpecs.git:
+    - DXCategoryKit
+    - DXConstantsKit
+    - DXGlobalConfigHttpManagerKit
+    - DXHttpManagerKit
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - AFNetworking
+    - FDFullscreenPopGesture
+    - GVUserDefaults
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - OpenUDID
+    - Protobuf
+    - ReactiveObjC
+    - SDWebImage
+    - SSZipArchive
+    - SVGAPlayer
+    - YYKit
+
+EXTERNAL SOURCES:
+  DXBaseViewControllerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  DXBaseViewControllerKit: 0d795cc4e76e07d62e73edbb2a5cb8717ed73b56
+  DXCategoryKit: ee82b9fa8a6164e950ce037dac22e8e9dad9c609
+  DXConstantsKit: 6887aec470d58f7d5219eb62aeb8fb44fb937d9f
+  DXGlobalConfigHttpManagerKit: 6fc34ed92bac6908ab50cc13bc4e6227749093c3
+  DXHttpManagerKit: b88269833e325e6447a584dc461540bf1d88b3ed
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  GVUserDefaults: 52d48cf8ba578b40a1a76312b196dfc9134ba36a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
+  OpenUDID: e7cb6984c7304906ad20f3a36bf087b025896b6b
+  Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+  SVGAPlayer: 74a9dff6d92758439d3bf4cf40a35585b0e337d2
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 68e81101cff105f79c6f8f9513ac52a4aeb50bd9
+
+COCOAPODS: 1.10.0
